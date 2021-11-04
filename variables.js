@@ -25,7 +25,7 @@ var lovesCode = true;
 */
 
 //CODE HERE
-if (faveNum = 13) {
+if (faveNum === 13) {
 console.log('lucky 13!')
 } else {
   console.log('not lucky 13!')
@@ -37,6 +37,7 @@ console.log('lucky 13!')
 */
 
 //CODE HERE
-for (i = 0; i <5; i++) {
-console.log(i)
-}
+let n = 5;
+for (let i = 1; i <= n; i++) {
+  console.log('10')
+  }

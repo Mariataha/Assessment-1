@@ -55,5 +55,3 @@ function bigOrSmall (arr) {
     return answers;
   }
   
-
-//,
